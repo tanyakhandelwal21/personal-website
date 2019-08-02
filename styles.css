@@ -6,6 +6,16 @@ body {
   background-size: cover;
 }
 
+.WebContainer{
+  width: 100%;
+  height: auto;
+}
+.articles{
+  width:90%; /*Takes 90% width from WebContainer*/
+  height: auto;
+  margin: auto;
+} 
+
 p {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 500%;
